@@ -1,4 +1,4 @@
-package com.ird.ummisco.gama.myapplication;
+package org.ummisco.gama.mobile.android;
 
 import org.junit.Test;
 

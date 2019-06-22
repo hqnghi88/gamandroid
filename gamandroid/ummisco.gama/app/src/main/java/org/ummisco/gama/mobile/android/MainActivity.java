@@ -1,4 +1,4 @@
-package com.ird.ummisco.gama.myapplication;
+package org.ummisco.gama.mobile.android;
 
 import android.app.Activity;
 import android.app.Application;
@@ -13,7 +13,7 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-import com.ird.ummisco.gama.myapplication.R;
+import org.ummisco.gama.mobile.android.R;
 
 
 public class MainActivity extends AppCompatActivity {

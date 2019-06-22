@@ -1,4 +1,4 @@
-package com.ird.ummisco.gama.myapplication;
+package org.ummisco.gama.mobile.android;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.ird.ummisco.gama.myapplication", appContext.getPackageName());
+        assertEquals("org.ummisco.gama.mobile.android", appContext.getPackageName());
     }
 }
